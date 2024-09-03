@@ -1,4 +1,4 @@
-# Salifort_Mototrs
+# Salifort_Motors
 Machine Learning Project for analyzing key factors responsible for high employee turnover and building a predictive model.
 
 # Overview
