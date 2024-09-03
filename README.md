@@ -19,7 +19,7 @@ The below chart shows the features,
 ![image](https://github.com/user-attachments/assets/1bbadd44-288c-414f-a881-91371ca542c7)
 
 
-The models and the features importances extracted from the models confirm that employees at company are overworked. so to retain employees, company can take appropriate measures.
+The models and the features importance extracted from the models confirm that employees at company are overworked. so to retain employees, company can take appropriate measures.
 
 # Conclusion
 The model help predict whether an employee will leave and identify which factors are most influential. These insights can help HR make decisions to improve employee retention which will be benefical for the company. 
